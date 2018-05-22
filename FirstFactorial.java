@@ -1,7 +1,8 @@
 import java.util.*; 
 import java.io.*;
 
-class Main {  
+class Main {
+  
   public static int FirstFactorial(int num) {
     if (num == 0) {
         return 1;
